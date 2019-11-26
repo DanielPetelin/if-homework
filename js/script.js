@@ -6,4 +6,4 @@ if (name === 'ECMAScript') {
     alert('Вы не знали? ECMAScript!');
 }
 
-/result = (a + b < 4) ? 'Мало' : 'Много';/
+//result = (a + b < 4) ? 'Мало' : 'Много';
